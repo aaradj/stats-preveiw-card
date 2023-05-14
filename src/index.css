@@ -4,3 +4,7 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+body {
+  background-color: rgb(9, 11, 26);
+  color: #fff;
+}
